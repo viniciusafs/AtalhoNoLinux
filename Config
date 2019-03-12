@@ -1,0 +1,26 @@
+sudo ln -sf /opt/tor-browser/Browser/start-tor-browser /usr/bin/torbrowser
+#Como Criar um atalho para os programas no Linux
+
+
+Comando 	Número 	Permissão
+chmod 	000 	---------
+chmod 	400 	r--------
+chmod 	444 	r--r--r--
+chmod 	600 	rw-------
+chmod 	620 	-rw--w----
+chmod 	640 	-rw-r-----
+chmod 	644 	rw-r--r--
+chmod 	645 	-rw-r--r-x
+chmod 	646 	-rw-r--rw-
+chmod 	650 	-rw-r-x---
+chmod 	660 	-rw-rw----
+chmod 	661 	-rw-rw---x
+chmod 	662 	-rw-rw--w-
+chmod 	663 	-rw-rw--wx
+chmod 	664 	-rw-rw-r--
+chmod 	666 	rw-rw-r--
+chmod 	700 	rwx------
+chmod 	750 	rwxr-x---
+chmod 	755 	rwxr-xr-x
+chmod 	777 	rwxrwxrwx
+chmod 	4711 	-rws--x--x
